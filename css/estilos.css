@@ -4,12 +4,39 @@ body
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#cabecera
+{
+    background: red;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+}
+
 #container
 {
     width: 80%;
     padding: 1cm;
     text-align: left;
     border: 1xp solid violet;
-    
 
+
+}
+#post
+{
+    padding: 1cm;
+}
+#container h1
+{
+    front-size: 20px;
+}
+
+#cabecera #tagline
+{
+
+    margin: 0 0 0 1cm;
+    front-weight: blue;
+    front-size: 0.8cm; 
 }
